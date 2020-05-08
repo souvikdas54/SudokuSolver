@@ -21,4 +21,4 @@ The aim of this problem is to construct the smaller 3x3 grid with numbers from 1
 4.If there is no unassigned location then return true.
 ```
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/l8B5wsM"><a href="//imgur.com/a/l8B5wsM"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/l8B5wsM"><a href="//imgur.com/l8B5wsM">sudoku solver</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
