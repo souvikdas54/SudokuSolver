@@ -21,4 +21,4 @@ The aim of this problem is to construct the smaller 3x3 grid with numbers from 1
 4.If there is no unassigned location then return true.
 ```
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/l8B5wsM"><a href="//imgur.com/a/l8B5wsM"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<div style="width:476px;max-width:100%;"><div style="height:0;padding-bottom:105.04%;position:relative;"><iframe width="476" height="500" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/40lqgu"></iframe></div><p><a href="https://imgflip.com/gif/40lqgu">via Imgflip</a></p></div>
